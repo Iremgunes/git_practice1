@@ -7,6 +7,11 @@ public class HelloWorld {
 
     // today is the ramadan's 3. day
 
+    // doing awesome work 3 !
+
+    //awesome work 3 is done and ready to be committed
+    // and ready to be pushed to remote reporitory
+
 
 
 }
