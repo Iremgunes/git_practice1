@@ -12,6 +12,8 @@ public class Practice1 {
     // step 5
 
 
+    // step 6
+
 
 
 }
